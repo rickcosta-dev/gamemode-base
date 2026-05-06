@@ -26,7 +26,7 @@ Este é um projeto de gamemode base modular para San Andreas Multiplayer (SA-MP)
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE]([LICENSE](https://github.com/rickcosta-dev/gamemode-base?tab=Apache-2.0-1-ov-file)) para mais detalhes.
 
 ---
 **Desenvolvido por: RickZin021**  
